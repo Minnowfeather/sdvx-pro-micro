@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "Back Layers",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -8,8 +8,6 @@
     ],
     "hidden_nets": [
       "",
-      "Ground",
-      "5V",
       "ButtonData",
       "LightData",
       "EncData"
