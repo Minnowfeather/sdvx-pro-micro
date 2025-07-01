@@ -33,6 +33,8 @@ V1: Button pins have swapped GND and 5V
 
 V2: Pots are a bit jittery when using a 0.1μF capacitor. Possibly fixed with higher value cap?
 V2: Pro Micro footprint is actually a Teensy 2.0 footprint. This is only a cosmetic difference.
+V2: Pro Micro USB-C slot is blocked by the Start button, requiring it to be mounted upside-down
+V2: Upside-down mounting might require extension cables for each button
 
 # ToDO
 
